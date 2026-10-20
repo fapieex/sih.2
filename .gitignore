@@ -1,0 +1,11 @@
+node_modules/
+dist/
+tools/
+data/*.db
+data/*.db-shm
+data/*.db-wal
+demo-video/clips/
+demo-video/frames/
+demo-video/sheets/
+*.log
+.DS_Store
